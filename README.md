@@ -1,5 +1,5 @@
 ## Redis Client
-A sample application to use redis via java is provided in [this](jedis-client) project.
+A sample application to use redis via java is provided in [this](jedis-client) project. This project uses the [jedis](https://github.com/xetorthio/jedis) java client. 
 
 ## Redis Clustering 
 
