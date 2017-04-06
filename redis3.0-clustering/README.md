@@ -12,9 +12,9 @@ The following is the minimum deployment architecture for the sample program
  | C |------+---| M2 |---| R2 | 
  +---+      |   +----+   +----+
             |
-	        |   +----+   +----+
-	        +---| M3 |---| R3 |
-	            +----+   +----+ 
+	    |   +----+   +----+
+	    +---| M3 |---| R3 |
+	        +----+   +----+ 
 
 C - Client
 M - Master
